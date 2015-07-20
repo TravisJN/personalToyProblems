@@ -27,7 +27,6 @@ var nthPrime = function(n) {
     }
     if (isPrime) {
       primes.push(num);
-      console.log(primes);
     }
     num += 2;  //Only check odds
   }
