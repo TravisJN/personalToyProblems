@@ -86,6 +86,7 @@ var fourAdjacent = function() {
         }
       }
     }
+    col = 0;
   }
 
   return greatest;
